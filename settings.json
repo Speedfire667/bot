@@ -12,10 +12,10 @@
   },
   
   "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "enabled": true,
+    "x": 1,
+    "y": 2,
+    "z": 3
   },
 
   "utils": {
@@ -43,6 +43,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 1
   }
 }
