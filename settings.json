@@ -32,17 +32,17 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 10,
 
       "messages": [
         "Is Mam",
         "jegues",
-        "eu sou um jogador regular"
+        "not is man"
       ]
     },
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 9999
+    "auto-recconect-delay": 9000
   }
 }
