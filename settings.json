@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 60,
 
       "messages": [
         "Is Mam",
@@ -43,6 +43,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 50
+    "auto-recconect-delay": 5
   }
 }
