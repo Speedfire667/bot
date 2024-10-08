@@ -8,7 +8,7 @@
   "server": {
     "ip": "Speedfire667.aternos.me",
     "port": 56470,
-    "version": "1.11.1"
+    "version": "1.12.1"
   },
   
   "position": {
@@ -43,6 +43,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 9000
+    "auto-recconect-delay": 9900
   }
 }
